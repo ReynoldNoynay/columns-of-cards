@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Open Sans;
+  font-family: "Open Sans" sans-serif;
   line-height: 1.5;
 }
 
@@ -21,8 +21,8 @@ header {
 }
 
 img {
-  display: block;
-  width: 100%;
+  display:center block;
+  width: 25%;
 }
 
 h1 {
@@ -32,9 +32,16 @@ h1 {
   text-align: center;
 }
 
+
+
 li {
   width: 33.333%;
-  border: 1px solid #a63f38;
+  border: 1px solid black;
+}
+
+.Anderon {
+    width: 33.333%;
+    border: 1px solid black;
 }
 
 .nav {
