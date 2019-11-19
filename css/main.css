@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Merriweather, regular, bold;
+  font-family: Open Sans;
   line-height: 1.5;
 }
 
@@ -14,20 +14,19 @@ body {
 }
 
 header {
-  background-color: #d05c2e;
+  background-color: #f2f2f2;
   padding: .6em;
-  color: #fff;
+  color: #333;
   margin: 0;
 }
 
 img {
-  display: flex;
-  width: 40px;
-  justify-content: center;
+  display: block;
+  width: 100%;
 }
 
 h1 {
-  color: #fff;
+  color: #333;
   margin: 0;
   font-size: 2rem;
   text-align: center;
@@ -49,13 +48,13 @@ a {
   display: inline-block;
   color: #fff;
   font-size: 1.125rem;
-  background-color: #d05c2e;
+  background-color: #333;
   border-radius: 4px;
   text-decoration: none;
 }
 
 a:hover {
-  background-color: #a63f38;
+  background-color: #999;
   color: #fff;
 }
 
