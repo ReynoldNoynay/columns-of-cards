@@ -15,17 +15,29 @@ body {
 
 .anderon {
   background-color: #e2e2e2;
+  padding-bottom: 7rem;
+  width: 33.333%;
+  border: 1px solid black;
 }
 
 .hedegaard {
   background-color: #ccc;
+  padding-bottom: 7rem;
+  width: 33.333%;
+  border: 1px solid black;
 }
 .cejkova {
   background-color: #aaa;
+  width: 33.333%;
+  border: 1px solid black;
+  padding-bottom: 7rem;
 }
 
 .olivaraz {
   background-color: #999;
+  width: 33.333%;
+  border: 1px solid black;
+  padding-bottom: 7rem;
 }
 
 header {
@@ -52,11 +64,6 @@ h1 {
 li {
   width: 33.333%;
   border: 1px solid black;
-}
-
-.Anderon {
-    width: 33.333%;
-    border: 1px solid black;
 }
 
 .nav {
