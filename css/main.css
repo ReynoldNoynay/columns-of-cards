@@ -13,6 +13,21 @@ body {
   margin: 0;
 }
 
+.anderon {
+  background-color: #e2e2e2;
+}
+
+.hedegaard {
+  background-color: #ccc;
+}
+.cejkova {
+  background-color: #aaa;
+}
+
+.olivaraz {
+  background-color: #999;
+}
+
 header {
   background-color: #f2f2f2;
   padding: .6em;
